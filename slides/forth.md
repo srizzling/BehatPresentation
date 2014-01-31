@@ -1,29 +1,31 @@
 ##What does a feature file look like?
 
 <pre><code data-trim>
-Feature: Serve coffee
-  In order to earn money
-  Customers should be able to
-  buy coffee at all times
 
-Scenario: Buy last coffee
-  Given there are 1 coffees left in the machine
-  And I have deposited 1 dollar
-  When I press the coffee button
-  Then I should be served a coffee
+Feature: Jira integration
+    In order to facilitate the authoring of Behat features by non-developers
+    As a developer
+    I want to write an extension to load features from Jira issues.
+
+Scenario: Load Me!
+    Given I am a Jira issue
+    And I contain a Behat feature
+    When I am loaded by JiraExtension
+    Then I should parsed by Gherkin
+
 </code></pre>
 
 Can write in **any** language. Even **Pirate**
 
 <pre><code data-trim>
-Ahoy matey!: Serve coffee
-  In order to earn money
-  Customers should be able to
-  buy coffee at all times
+Ahoy matey!: Jira integration
+    In order to facilitate the authoring of Behat features by non-developers
+    As a developer
+    I want to write an extension to load features from Jira issues.
 
-Heave to: Buy last coffee
-  Gangway! there are 1 coffees left in the machine
-  Aye I have deposited 1 dollar
-  Blimey! I press the coffee button
-  Let go and haul should be served a coffee
-  </code></pre>
+Heave to:  Load Me!
+    Gangway! I am a Jira issue
+    Aye I contain a Behat feature
+    Blimey! I am loaded by JiraExtension
+    Let go and haul I should parsed by Gherkin
+</code></pre>

@@ -1,9 +1,9 @@
-##Is Behat Perfect Yet
+##What Behat requires?
 
-No, not yet...
+Behat requires alot of things to be awesome.
 
 
-##It requries a bit of prep work from the client.
+##It requries upfront prep work from the client and developer
 <a href="http://imgur.com/1tdpf0v"><img src="http://i.imgur.com/1tdpf0v.jpg" title="Hosted by imgur.com" /></a>
 
 
