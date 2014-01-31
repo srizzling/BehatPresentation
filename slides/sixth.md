@@ -6,7 +6,7 @@
 - And still keep the good stuff the Behat Provides in terms of automation.
 
 
-##Soultions Out There
+##Solutions Out There
 <a href="http://imgur.com/T6WXKGo"><img src="http://images.smh.com.au/2012/12/11/3880802/1_puzzle-piece-620x349.jpg" title="Hosted by imgur.com" /></a>
 
 
@@ -33,5 +33,3 @@ Then you can run these tests by executing the following command:
 <li> Behat Features are not in VCS </li>
 </ul>
 </div>
-
-

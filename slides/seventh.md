@@ -9,14 +9,11 @@
 - Execute Behat, and watch jira for feature files pushed up 
 <a href="http://imgur.com/ECdQXlE"><img src="http://i.imgur.com/ECdQXlE.png" title="Hosted by imgur.com" /></a>
 
+
 ##How it works?
 Feature files are pushed to readonly fields for clients to read and accept. 
 Jira is then used a point of disscussion for these features. Modifications are
-made by the developer till an agreement is made
-
-
-
-
+made by the developer till an agreement is made.
 
 
 ##Pros/Cons
@@ -33,6 +30,3 @@ made by the developer till an agreement is made
 <li> Branches are very hard to model </li>
 </ul>
 </div>
-
-
-
