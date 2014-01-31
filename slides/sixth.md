@@ -7,7 +7,7 @@
 
 
 ##Solutions Out There
-<a href="http://imgur.com/T6WXKGo"><img src="http://images.smh.com.au/2012/12/11/3880802/1_puzzle-piece-620x349.jpg" title="Hosted by imgur.com" /></a>
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.nz/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=FYtOzAEdG1agBCn_m4FSVtwOOTEnLG49Vpd1Kg%3BFYhyYAEdbdNFBSk1b7ec7en4OTHZxp2oqulGYA&amp;q=Behat,+Uttar+Pradesh,+India+to+Jirat,+West+Bengal,+India&amp;aq=3&amp;oq=behat+to+jira&amp;sll=-41.24437,174.761855&amp;sspn=0.529716,1.056747&amp;ie=UTF8&amp;t=m&amp;saddr=Behat,+Uttar+Pradesh,+India&amp;daddr=Jirat,+West+Bengal,+India&amp;ll=26.627818,82.946777&amp;spn=9.420278,14.0625&amp;z=6&amp;output=embed"></iframe><br />
 
 
 ##JiraExtenstion
